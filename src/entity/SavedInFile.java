@@ -1,4 +1,4 @@
-package repository;
+package entity;
 
 public interface SavedInFile {
     String convertToLine();
